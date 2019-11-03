@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eb81190c.chunk.css",
+    "main.js": "/static/js/main.cdfec852.chunk.js",
+    "main.js.map": "/static/js/main.cdfec852.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3bbf3189.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3bbf3189.js.map",
+    "static/js/2.e86980dc.chunk.js": "/static/js/2.e86980dc.chunk.js",
+    "static/js/2.e86980dc.chunk.js.map": "/static/js/2.e86980dc.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.605f6e5ba6233d205d054ff18d4a9909.js": "/precache-manifest.605f6e5ba6233d205d054ff18d4a9909.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.eb81190c.chunk.css.map": "/static/css/main.eb81190c.chunk.css.map",
+    "static/js/2.e86980dc.chunk.js.LICENSE.txt": "/static/js/2.e86980dc.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/GothamBook.b54724f5.ttf",
+    "static/media/avatar.jpg": "/static/media/avatar.58f6d747.jpg",
+    "static/media/github-logo.svg": "/static/media/github-logo.b53ff55e.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.c1eb2740.svg",
+    "static/media/telegram.svg": "/static/media/telegram.a888fec0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bbf3189.js",
+    "static/js/2.e86980dc.chunk.js",
+    "static/css/main.eb81190c.chunk.css",
+    "static/js/main.cdfec852.chunk.js"
+  ]
+}
