@@ -10,7 +10,6 @@ const trans = (x, y, s) =>
   `perspective(600px) rotateX(${x}deg) rotateY(${y}deg) scale(${s})`;
 
 export default function Card({ children }) {
-  const configList = Object.keys(config);
   const ref = React.useRef(null);
   const [xys, set] = React.useState([0, 0, 1]);
   const props = useSpring({ xys, config: config["default"] });
